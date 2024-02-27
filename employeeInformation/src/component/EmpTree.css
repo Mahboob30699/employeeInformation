@@ -1,0 +1,26 @@
+.tree {
+    padding-left: 0;
+  }
+  
+  .tree-node {
+    margin-bottom: 5px;
+  }
+  
+  .node-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .expand-button {
+    margin-right: 8px;
+  }
+  
+  .nested {
+    padding-left: 20px;
+  }
+  
+  .employee-name {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
